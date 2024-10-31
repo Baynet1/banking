@@ -26,7 +26,7 @@ const DoughnutChart = ({ accounts }: DoughnutChartProps) => {
         legend: {
             display:false
         }
-    }
+        }
     }}
   />
 
